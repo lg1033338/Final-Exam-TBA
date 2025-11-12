@@ -1,0 +1,14 @@
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\bin\Debug\net8.0\Final Project.exe
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\bin\Debug\net8.0\Final Project.deps.json
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\bin\Debug\net8.0\Final Project.runtimeconfig.json
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\bin\Debug\net8.0\Final Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\bin\Debug\net8.0\Final Project.pdb
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.AssemblyInfo.cs
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\refint\Final Project.dll
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.pdb
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\Final Project.genruntimeconfig.cache
+C:\Users\galin\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Final Project\obj\Debug\net8.0\ref\Final Project.dll
