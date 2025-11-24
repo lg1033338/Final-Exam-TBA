@@ -1,0 +1,28 @@
+Minigames
+
+// Minigame 1:
+// A Medallion Shard is locked in Glass Box with a keycard
+// It requires a random number between 1 and 20
+// You have five tries to guess it, otherwise, you will get shredded by Bullets
+// Once you guess it, you the Glass Box opens and you get the shard.
+
+// Minigame 2:
+// There's a prisoner in an electric chair. They want you to free them.
+// There's 4 wires. 3 Wires are holding the restraints, but 1 wire, if cut, will electrocute the prisoner and you. 
+// Once you free the prisoner, they give you a Medallion Shard.
+
+// Minigame 3:
+// There's a black and white picture.
+// You have to guess what it looks like in three tries, unless you want to be dropped into a vat of acid
+// It looks like both a Goblet and two Girls. The picture opens to reveal a Medallion Shard.
+
+// Minigame 4:
+// There's five potions. Only one is safe to drink. There's a few hints
+// "The potions on the end are deadly", "The one in the center is a killer."
+// Potion two is safe. Once you drink it, you get a Medallion Shard.
+
+// Minigame 5:
+// You see ten ropes.
+// You have to cut 6 of them.
+// There's two loadbearing ropes that if you cut, you fall into the spikes below.
+// Once you cut six Ropes, you get a Medallion Shard.
