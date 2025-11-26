@@ -1,0 +1,42 @@
+C:\Users\Andrew Neal\Downloads\project\bin\Debug\net8.0\project.exe
+C:\Users\Andrew Neal\Downloads\project\bin\Debug\net8.0\project.deps.json
+C:\Users\Andrew Neal\Downloads\project\bin\Debug\net8.0\project.runtimeconfig.json
+C:\Users\Andrew Neal\Downloads\project\bin\Debug\net8.0\project.dll
+C:\Users\Andrew Neal\Downloads\project\bin\Debug\net8.0\project.pdb
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.dll
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\refint\project.dll
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.pdb
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+C:\Users\Andrew Neal\Downloads\project\obj\Debug\net8.0\ref\project.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.exe
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.deps.json
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.runtimeconfig.json
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.pdb
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\refint\project.dll
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.pdb
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+C:\Users\an1027894\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\ref\project.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\refint\project.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.pdb
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.exe
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.deps.json
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.runtimeconfig.json
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.dll
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\bin\Debug\net8.0\project.pdb
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+C:\Users\Andrew Neal\OneDrive - Ozarks Technical Community College\project\obj\Debug\net8.0\ref\project.dll

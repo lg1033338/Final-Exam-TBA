@@ -1,0 +1,1 @@
+Player=PlayerName;CurrentRoom=6,Items=1/10
